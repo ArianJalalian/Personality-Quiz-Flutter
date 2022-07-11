@@ -10,7 +10,9 @@
  
  -Here are some screenshots from the app 
  
- 
+![My Image](screenshots/question.png) 
+![My Image](screenshots/another_question.png) 
+![My Image](screenshots/result.png)
  
  
 
