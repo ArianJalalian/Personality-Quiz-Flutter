@@ -12,7 +12,7 @@
  
  
  
-![My Image](screenshots/question.png =250x250) 
+![My Image](screenshots/question.png) 
 ![My Image](screenshots/another_question.png) 
 ![My Image](screenshots/result.png)
  
