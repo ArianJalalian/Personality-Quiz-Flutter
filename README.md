@@ -1,6 +1,7 @@
 # Personality quiz app 
 
 -This is a very simple app that unevenly judges your personality based on few silly questions :)
+
 -This isn't my own project, i just coded along with it during a Flutter course . 
 
 
@@ -12,9 +13,7 @@
  
  
  
-![My Image](screenshots/question.png) 
-![My Image](screenshots/another_question.png) 
-![My Image](screenshots/result.png)
+<img src="./screenshots/question.png" width = 250 height = 500>               <img src="./screenshots/another_question.png" width = 250 height = 500>                <img src="./screenshots/result.png" width = 250 height = 500>
  
  
 
